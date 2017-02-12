@@ -29,6 +29,10 @@
 </pre>
 
 ### 上图
+![001](https://cloud.githubusercontent.com/assets/22146188/22859647/719e98d2-f11e-11e6-9a1a-92d3eab418e9.jpg)
+![02](https://cloud.githubusercontent.com/assets/22146188/22859651/83a017e0-f11e-11e6-813a-0c9fd51bd861.jpg)
+![03](https://cloud.githubusercontent.com/assets/22146188/22859652/8a6c6ea2-f11e-11e6-982b-6620b5de41f3.jpg)
+
 
 # vuecai
 
