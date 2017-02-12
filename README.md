@@ -1,3 +1,18 @@
+本项目是基于vue2最新实战项目，vue2 +vue-resource2 + es6 +webpack 小商城
+项目技术架构
+    vue-cli
+    vue
+    vue-resource
+    vue-awesome-swiper
+    better-scroll
+    stylus
+    webpack
+目前实现的功能
+    广告轮播
+    加入购物车，移除购物车
+    显示评论 评论筛选
+    商品详情 父子组件的通信
+
 # vuecai
 
 > vuecai
@@ -14,8 +29,3 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
