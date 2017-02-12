@@ -1,0 +1,701 @@
+{
+  "seller": {
+    "name": "",
+    "description": "",
+    "minPrice": 20,
+    "deliveryPrice": 4
+  },
+  "goods": [
+    {
+      "name": "蔬菜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "玉米",
+          "price": 3,
+          "oldPrice": "",
+          "weight": 500,
+          "description": "咸粥",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "可以生吃的甜玉米，颗粒饱满，色泽光亮",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很甜的玉米",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/167_thumb_G_1440400719132.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/167_G_1440400719812.jpg"
+        },
+        {
+          "name": "洋葱",
+          "price": 3,
+          "oldPrice": "",
+          "weight": 500,
+          "description": "红皮洋葱",
+          "sellCount": 1784,
+          "rating": 96,
+          "info": "两种特殊的营养物质：桷皮素和前列腺素A,具有润肠，理气和胃，健脾进食，消食化肉的功效",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/165_thumb_G_1440400518588.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/165_G_1440400518091.jpg"
+        },
+        {
+          "name": "小南瓜",
+          "price": 3,
+          "oldPrice": "",
+          "weight": 500,
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/163_thumb_G_1440400363235.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/163_G_1440400363268.jpg"
+        },
+        {
+          "name": "小米椒",
+          "price": 3,
+          "oldPrice": "",
+          "weight": 500,
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "火辣辣的",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "难吃不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/162_thumb_G_1440400291747.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/162_G_1440400291975.jpg"
+        },
+        {
+          "name": "小莲藕",
+          "price": 5,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/159_thumb_G_1440400083137.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/159_G_1440400083362.jpg"
+        },
+        {
+          "name": "小葱",
+          "price": 3,
+          "oldPrice": "",
+          "description": "绿葱葱的",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/157_thumb_G_1440399851663.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/157_G_1440399851851.jpg"
+        },
+        {
+          "name": "香菇",
+          "price": 6,
+          "oldPrice": "",
+          "description": "甜粥",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/155_thumb_G_1440399765273.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/155_G_1440399765826.jpg"
+        },
+        {
+          "name": "香菜",
+          "price": 4,
+          "oldPrice": "",
+          "description": "水分含量很高可%",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "香菜营养丰富，内含维生素c,胡萝卜素，维生素b1 b2等",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/153_thumb_G_1440399686626.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/153_G_1440399686161.jpg"
+        },
+        {
+          "name": "西兰花",
+          "price": 6,
+          "oldPrice": "",
+          "description": "炒，做沙拉",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "品质柔嫩，纤维少，水分多，风味比花棷菜更鲜美。被誉为蔬菜皇冠",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/151_thumb_G_1440399557431.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/151_G_1440399557352.jpg"
+        },
+        {
+          "name": "西红柿",
+          "price": 4,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "营养丰富，特殊的酸甜风味",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/149_thumb_G_1440399414925.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/149_G_1440399414140.jpg"
+        }
+      ]
+    },
+    {
+      "name": "水果",
+      "type": 2,
+      "foods": [
+        {
+          "name": "新疆提子",
+          "price": 18,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/186_thumb_G_1440404833012.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/186_G_1440404833779.jpg"
+        },
+        {
+          "name": "甜石榴",
+          "price": 8,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/180_thumb_G_1440403399519.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/180_G_1440403399233.jpg"
+        },
+        {
+          "name": "水蜜桃",
+          "price": 6,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/179_thumb_G_1440403295793.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/179_G_1440403295054.jpg"
+        },
+        {
+          "name": "新葡萄",
+          "price": 18,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/177_thumb_G_1440403180722.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/177_G_1440403180003.jpg"
+        },
+        {
+          "name": "美容猕猴桃",
+          "price": 10,
+          "oldPrice": 36,
+          "description": "翠绿如玉的果肉",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "入口即化，果汁四溢",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/175_thumb_G_1440402931684.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/175_G_1440402931237.jpg"
+        },
+        {
+          "name": "红富士苹果",
+          "price": 9,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/174_thumb_G_1440402657671.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/174_G_1440402657055.jpg"
+        },
+        {
+          "name": "黑仔西瓜",
+          "price": 2,
+          "oldPrice": 36,
+          "description": "维生素c丰富",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/172_thumb_G_1440402522056.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/172_G_1440402522060.jpg"
+        }
+      ]
+    },
+    {
+      "name": "肉类",
+      "type": -1,
+      "foods": [
+        {
+          "name": "猪肘子",
+          "price": 25,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 43,
+          "rating": 92,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "菜量还可以,味道还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/188_thumb_G_1440405445219.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/188_G_1440405445585.jpg"
+        },
+        {
+          "name": "猪尾巴",
+          "price": 25,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/188_thumb_G_1440405445219.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/188_G_1440405445585.jpg"
+        },
+        {
+          "name": "猪蹄",
+          "price": 25,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/185_thumb_G_1440405613282.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/185_G_1440405613455.jpg"
+        },
+        {
+          "name": "猪舌",
+          "price": 20,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "宫保府黑猪肉，野味的灵魂",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/184_thumb_G_1440406983277.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/184_G_1440406983315.jpg"
+        },
+        {
+          "name": "鱿鱼",
+          "price": 22,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/190_thumb_G_1440405775843.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/190_G_1440405775752.jpg"
+        },
+        {
+          "name": "梭边鱼",
+          "price": 19,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/189_thumb_G_1440405718741.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/189_G_1440405718707.jpg"
+        },
+        {
+          "name": "火烤对虾",
+          "price": 46,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://clw.cdjxb.cn/images/201508/thumb_img/45_thumb_G_1440405291748.jpg",
+          "image": "http://clw.cdjxb.cn/images/201508/goods_img/45_G_1440405291966.jpg"
+        }
+      ]
+    }
+  ]
+}
